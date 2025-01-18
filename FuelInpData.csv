@@ -1,0 +1,844 @@
+Make,Vehicle Class,Engine Size(L),Cylinders,Transmission,Fuel Type,CO2 Emissions(g/km),CO2 Rating,Smog Rating
+acura,compact,2.4,4,am8,z,200,6,3
+acura,suv: small,3.5,6,as10,z,263,4,5
+acura,suv: small,2.0,4,as10,z,232,5,6
+acura,suv: small,2.0,4,as10,z,242,5,6
+acura,compact,2.0,4,as10,z,230,5,7
+acura,compact,2.0,4,as10,z,231,5,7
+acura,compact,3.0,6,as10,z,256,5,5
+acura,compact,3.0,6,as10,z,261,4,5
+alfa romeo,mid-size,2.0,4,a8,z,205,6,3
+alfa romeo,mid-size,2.0,4,a8,z,217,5,3
+alfa romeo,mid-size,2.9,6,a8,z,271,4,3
+alfa romeo,suv: small,2.0,4,a8,z,218,5,3
+alfa romeo,suv: small,2.0,4,a8,z,226,5,3
+alfa romeo,suv: small,2.9,6,a8,z,288,4,3
+aston martin,minicompact,4.0,8,a8,z,271,4,5
+aston martin,minicompact,5.2,8,a8,z,324,3,3
+aston martin,suv: standard,4.0,8,a9,z,343,3,5
+aston martin,two-seater,4.0,8,a8,z,270,4,5
+audi,subcompact,2.0,4,am7,x,178,7,7
+audi,compact,2.0,4,am7,z,190,6,5
+audi,compact,2.0,4,am7,z,205,6,5
+audi,station wagon: small,2.0,4,am7,z,208,6,5
+audi,subcompact,2.0,4,am7,z,214,5,5
+audi,subcompact,2.0,4,am7,z,205,6,5
+audi,mid-size,2.0,4,am7,z,205,6,5
+audi,mid-size,2.0,4,am7,z,208,6,5
+audi,mid-size,3.0,6,am7,z,224,5,5
+audi,station wagon: mid-size,3.0,6,am7,z,234,5,5
+audi,full-size,3.0,6,as8,z,248,5,5
+audi,suv: small,2.0,4,as8,x,215,5,7
+audi,suv: small,2.0,4,as8,x,233,5,7
+audi,suv: small,2.0,4,am7,z,217,5,5
+audi,suv: small,2.0,4,am7,z,220,5,5
+audi,suv: standard,2.0,4,as8,z,252,5,3
+audi,suv: standard,3.0,6,as8,z,273,4,5
+audi,two-seater,5.2,8,am7,z,322,3,3
+audi,two-seater,5.2,8,am7,z,356,3,3
+audi,subcompact,2.9,6,as8,z,267,4,5
+audi,mid-size,2.9,6,as8,z,268,4,5
+audi,station wagon: mid-size,4.0,8,as8,z,319,3,3
+audi,mid-size,4.0,8,as8,z,315,3,3
+audi,suv: standard,4.0,8,as8,z,360,2,3
+audi,subcompact,2.0,4,am7,z,206,6,5
+audi,compact,3.0,6,as8,z,227,5,5
+audi,subcompact,3.0,6,as8,z,233,5,5
+audi,subcompact,3.0,6,as8,z,227,5,5
+audi,mid-size,3.0,6,as8,z,227,5,5
+audi,mid-size,2.9,6,as8,z,254,5,5
+audi,full-size,4.0,8,as8,z,323,3,3
+audi,suv: small,3.0,6,as8,z,262,4,5
+audi,suv: standard,4.0,8,as8,z,325,3,3
+audi,subcompact,2.0,4,am7,x,218,5,7
+audi,two-seater,2.0,4,am7,x,218,5,7
+audi,subcompact,2.5,5,am7,z,235,5,3
+audi,subcompact,2.0,4,am7,z,209,5,3
+bentley,suv: standard,4.0,8,as8,z,309,3,3
+bentley,suv: standard,6.0,8,as8,z,383,2,3
+bentley,subcompact,4.0,8,am8,z,287,4,3
+bentley,subcompact,6.0,8,am8,z,379,2,3
+bentley,minicompact,4.0,8,am8,z,294,4,3
+bentley,minicompact,6.0,8,am8,z,395,2,3
+bentley,mid-size,4.0,8,am8,z,323,3,3
+bentley,mid-size,6.0,8,am8,z,373,2,3
+bmw,compact,2.0,4,as8,z,195,6,7
+bmw,subcompact,2.0,4,as8,z,202,6,7
+bmw,mid-size,2.0,4,as8,z,206,6,7
+bmw,full-size,3.0,6,as8,z,219,5,5
+bmw,full-size,4.4,8,as8,z,279,4,3
+bmw,mid-size,4.4,8,as8,z,279,4,3
+bmw,suv: standard,4.4,8,as8,z,321,3,3
+bmw,compact,2.0,4,as8,z,214,5,3
+bmw,subcompact,3.0,6,as8,z,212,5,5
+bmw,compact,3.0,6,m6,z,293,4,5
+bmw,compact,3.0,6,as8,z,292,4,5
+bmw,compact,3.0,6,as8,z,296,4,5
+bmw,compact,3.0,6,as8,z,214,5,5
+bmw,subcompact,3.0,6,as8,z,301,3,5
+bmw,subcompact,3.0,6,m6,z,293,4,5
+bmw,subcompact,3.0,6,as8,z,292,4,5
+bmw,subcompact,3.0,6,as8,z,296,4,5
+bmw,subcompact,3.0,6,as8,z,211,5,5
+bmw,subcompact,3.0,6,as8,z,214,5,5
+bmw,compact,3.0,6,as8,z,224,5,5
+bmw,mid-size,4.4,8,as8,z,322,3,3
+bmw,mid-size,4.4,8,as8,z,271,4,3
+bmw,full-size,6.0,8,as8,z,354,3,3
+bmw,subcompact,4.4,8,as8,z,322,3,3
+bmw,subcompact,4.4,8,as8,z,279,4,3
+bmw,subcompact,4.4,8,as8,z,271,4,3
+bmw,suv: small,2.0,4,as8,z,213,5,7
+bmw,suv: small,2.0,4,as8,z,207,6,7
+bmw,suv: small,2.0,4,as8,z,207,6,3
+bmw,suv: small,2.0,4,as8,z,230,5,7
+bmw,suv: small,3.0,6,as8,z,323,3,3
+bmw,suv: small,3.0,6,as8,z,241,5,5
+bmw,suv: standard,3.0,6,as8,z,241,5,3
+bmw,suv: standard,4.4,8,as8,z,364,2,3
+bmw,suv: standard,4.4,8,as8,z,302,3,3
+bmw,suv: standard,3.0,6,as8,z,256,5,3
+bmw,two-seater,2.0,4,as8,z,199,6,7
+bmw,two-seater,3.0,6,as8,z,223,5,5
+bugatti,two-seater,6.0,8,am7,z,358,2,3
+bugatti,two-seater,6.0,8,am7,z,358,2,3
+buick,suv: standard,3.6,6,a9,x,263,4,6
+buick,suv: standard,3.6,6,a9,x,277,4,6
+buick,suv: small,1.4,4,as6,x,201,6,7
+buick,suv: small,1.4,4,as6,x,214,5,7
+buick,suv: small,1.2,3,av,x,184,6,7
+buick,suv: small,1.3,3,av,x,185,6,7
+buick,suv: small,1.3,3,a9,x,201,6,7
+buick,suv: small,2.0,4,as9,x,209,5,7
+buick,suv: small,2.0,4,as9,x,220,5,7
+cadillac,compact,2.0,4,as8,z,206,6,7
+cadillac,compact,2.7,4,as10,z,221,5,6
+cadillac,compact,2.0,4,as8,z,216,5,7
+cadillac,compact,2.7,4,as10,z,233,5,6
+cadillac,compact,2.7,4,as10,z,239,5,6
+cadillac,compact,2.7,4,as10,z,244,5,6
+cadillac,compact,3.6,6,as10,z,297,4,5
+cadillac,compact,3.6,6,m6,z,303,3,5
+cadillac,mid-size,2.0,4,as10,z,207,6,7
+cadillac,mid-size,3.0,6,as10,z,252,5,5
+cadillac,mid-size,2.0,4,as10,z,222,5,7
+cadillac,mid-size,3.0,6,as10,z,260,4,5
+cadillac,mid-size,3.0,6,as10,z,258,4,5
+cadillac,mid-size,6.0,8,as10,z,346,3,3
+cadillac,mid-size,6.0,8,m6,z,356,3,3
+cadillac,suv: standard,3.0,6,a10,d,281,4,3
+cadillac,suv: standard,6.0,8,a10,z,345,3,6
+cadillac,suv: standard,6.0,8,a10,z,353,3,6
+cadillac,suv: small,2.0,4,as9,z,211,5,7
+cadillac,suv: small,2.0,4,as9,z,225,5,7
+cadillac,suv: small,2.0,4,as9,z,225,5,7
+cadillac,suv: small,2.0,4,as9,z,237,5,7
+cadillac,suv: small,3.6,6,as9,x,263,4,6
+cadillac,suv: small,2.0,4,as9,z,239,5,7
+cadillac,suv: small,3.6,6,as9,x,269,4,6
+chevrolet,suv: small,2.0,4,a9,x,221,5,7
+chevrolet,suv: small,3.6,6,a9,x,252,5,6
+chevrolet,suv: small,2.0,4,a9,x,232,5,7
+chevrolet,suv: small,3.6,6,a9,x,259,4,6
+chevrolet,subcompact,2.0,4,as8,z,222,5,5
+chevrolet,subcompact,2.0,4,m6,z,239,5,5
+chevrolet,subcompact,3.6,6,as10,x,251,5,6
+chevrolet,subcompact,3.6,6,m6,x,281,4,6
+chevrolet,subcompact,6.0,8,as10,z,281,4,3
+chevrolet,subcompact,6.0,8,m6,z,296,4,3
+chevrolet,subcompact,6.0,8,as10,z,355,3,3
+chevrolet,subcompact,6.0,8,m6,z,349,3,3
+chevrolet,pickup truck: small,2.5,4,a6,x,257,5,6
+chevrolet,pickup truck: small,2.8,4,a6,d,270,4,3
+chevrolet,pickup truck: small,3.6,6,a8,x,263,4,6
+chevrolet,pickup truck: small,2.5,4,a6,x,267,4,6
+chevrolet,pickup truck: small,2.8,4,a6,d,283,4,3
+chevrolet,pickup truck: small,3.6,6,a8,x,283,4,6
+chevrolet,pickup truck: small,2.8,4,a6,d,326,3,3
+chevrolet,pickup truck: small,3.6,6,a8,x,329,3,6
+chevrolet,two-seater,6.0,8,as8,z,297,4,5
+chevrolet,suv: small,1.5,4,a6,x,198,6,7
+chevrolet,suv: small,1.5,4,a6,x,208,6,7
+chevrolet,mid-size,1.5,4,av,x,175,7,7
+chevrolet,mid-size,2.0,4,a9,z,213,5,5
+chevrolet,pickup truck: standard,2.7,4,a8,x,274,4,6
+chevrolet,pickup truck: standard,3.0,6,a10,d,240,5,3
+chevrolet,pickup truck: standard,5.3,8,a6,x,341,3,3
+chevrolet,pickup truck: standard,5.3,8,a6,e,321,3,3
+chevrolet,pickup truck: standard,5.3,8,a8,x,314,3,6
+chevrolet,pickup truck: standard,5.3,8,a10,x,304,3,6
+chevrolet,pickup truck: standard,2.7,4,a8,x,306,3,6
+chevrolet,pickup truck: standard,2.7,4,a8,x,328,3,6
+chevrolet,pickup truck: standard,3.0,6,a10,d,272,4,3
+chevrolet,pickup truck: standard,3.0,6,a10,d,265,4,3
+chevrolet,pickup truck: standard,3.0,6,a10,d,298,4,3
+chevrolet,pickup truck: standard,5.3,8,a6,x,347,3,3
+chevrolet,pickup truck: standard,5.3,8,a6,e,326,3,3
+chevrolet,pickup truck: standard,5.3,8,a6,x,380,2,3
+chevrolet,pickup truck: standard,5.3,8,a6,e,358,2,3
+chevrolet,pickup truck: standard,5.3,8,a8,x,327,3,6
+chevrolet,pickup truck: standard,5.3,8,a8,x,359,2,6
+chevrolet,pickup truck: standard,5.3,8,a10,x,314,3,6
+chevrolet,pickup truck: standard,5.3,8,a10,x,347,3,6
+chevrolet,pickup truck: standard,5.3,8,a10,x,327,3,6
+chevrolet,pickup truck: standard,5.3,8,a10,x,339,3,6
+chevrolet,pickup truck: standard,5.3,8,a10,x,361,2,6
+chevrolet,pickup truck: standard,5.3,8,a10,x,364,2,6
+chevrolet,pickup truck: standard,5.3,8,a10,x,381,2,6
+chevrolet,pickup truck: standard,6.0,8,a10,z,329,3,6
+chevrolet,pickup truck: standard,6.0,8,a10,z,345,3,6
+chevrolet,pickup truck: standard,6.0,8,a10,z,352,3,6
+chevrolet,pickup truck: standard,6.0,8,a10,z,385,2,6
+chevrolet,pickup truck: standard,6.0,8,a10,z,366,2,6
+chevrolet,subcompact,1.4,4,av,x,165,7,5
+chevrolet,subcompact,1.4,4,m5,x,170,7,5
+chevrolet,suv: standard,3.0,6,a10,d,272,4,3
+chevrolet,suv: standard,5.3,8,a10,x,327,3,6
+chevrolet,suv: standard,5.3,8,a10,x,332,3,6
+chevrolet,suv: standard,3.0,6,a10,d,281,4,3
+chevrolet,suv: standard,5.3,8,a10,x,336,3,6
+chevrolet,suv: standard,5.3,8,a10,x,354,3,6
+chevrolet,suv: standard,6.0,8,a10,z,345,3,6
+chevrolet,suv: standard,6.0,8,a10,z,353,3,6
+chevrolet,suv: standard,3.0,6,a10,d,263,4,3
+chevrolet,suv: small,1.2,3,av,x,184,6,7
+chevrolet,suv: small,1.3,3,av,x,178,7,7
+chevrolet,suv: small,1.3,3,a9,x,197,6,7
+chevrolet,suv: standard,3.6,6,a9,x,260,4,6
+chevrolet,suv: standard,3.6,6,a9,x,277,4,6
+chevrolet,suv: small,1.4,4,as6,x,201,6,7
+chevrolet,suv: small,1.4,4,as6,x,214,5,7
+chrysler,full-size,3.6,6,a8,x,242,5,5
+chrysler,full-size,5.7,8,a8,x,289,4,3
+chrysler,full-size,3.6,6,a8,x,258,4,5
+chrysler,minivan,3.6,6,a9,x,249,5,5
+chrysler,minivan,3.6,6,a9,x,279,4,5
+dodge,mid-size,3.6,6,a8,x,242,5,5
+dodge,mid-size,5.7,8,a8,x,289,4,3
+dodge,mid-size,5.7,8,m6,z,307,3,3
+dodge,mid-size,6.0,8,a8,z,305,3,3
+dodge,mid-size,6.0,8,m6,z,325,3,3
+dodge,mid-size,3.6,6,a8,x,258,4,5
+dodge,mid-size,6.0,8,a8,z,339,3,3
+dodge,mid-size,6.0,8,m6,z,352,3,3
+dodge,mid-size,6.0,8,a8,z,359,2,3
+dodge,full-size,3.6,6,a8,x,242,5,5
+dodge,full-size,5.7,8,a8,x,289,4,3
+dodge,full-size,6.0,8,a8,z,305,3,3
+dodge,full-size,3.6,6,a8,x,258,4,5
+dodge,full-size,6.0,8,a8,z,368,2,3
+dodge,suv: standard,3.6,6,a8,x,265,4,7
+dodge,suv: standard,5.7,8,a8,x,331,3,5
+dodge,suv: standard,6.0,8,a8,z,363,2,3
+fiat,suv: small,1.3,4,a9,x,221,5,6
+ford,suv: small,2.3,4,as10,x,275,4,5
+ford,suv: small,2.3,4,m7,x,277,4,5
+ford,suv: small,2.7,6,as10,x,291,4,6
+ford,suv: small,2.3,4,as10,x,323,3,5
+ford,suv: small,2.3,4,m7,x,336,3,5
+ford,suv: small,2.7,6,as10,x,331,3,6
+ford,suv: small,2.3,4,as10,x,308,3,5
+ford,suv: small,2.3,4,m7,x,310,3,5
+ford,suv: small,2.3,4,as10,x,314,3,5
+ford,suv: small,2.3,4,m7,x,317,3,5
+ford,suv: small,1.5,3,a8,x,209,5,7
+ford,suv: small,2.0,4,as8,x,240,5,5
+ford,suv: small,2.0,4,as6,x,219,5,5
+ford,suv: small,2.0,4,a8,x,238,5,6
+ford,suv: small,2.0,4,as8,x,239,5,6
+ford,suv: small,2.7,6,as8,x,262,4,5
+ford,suv: small,1.5,3,a8,x,182,6,7
+ford,suv: small,1.5,3,a8,x,198,6,7
+ford,suv: small,2.0,4,a8,x,216,5,5
+ford,suv: small,2.5,4,av,x,136,7,7
+ford,suv: small,2.5,4,av,x,139,7,7
+ford,suv: standard,3.5,6,as10,x,304,3,6
+ford,suv: standard,3.5,6,as10,x,317,3,6
+ford,suv: standard,3.5,6,as10,x,317,3,6
+ford,suv: standard,3.5,6,as10,x,326,3,6
+ford,suv: standard,2.3,4,a10,x,242,5,6
+ford,suv: standard,2.3,4,a10,x,252,5,6
+ford,suv: standard,2.3,4,as10,x,269,4,6
+ford,suv: standard,2.3,4,as10,x,277,4,6
+ford,suv: standard,3.0,6,a10,x,277,4,5
+ford,suv: standard,3.3,6,as10,x,225,5,6
+ford,pickup truck: standard,2.7,6,as10,x,256,5,6
+ford,pickup truck: standard,2.7,6,as10,x,282,4,6
+ford,pickup truck: standard,3.3,6,as10,x,260,4,6
+ford,pickup truck: standard,3.3,6,as10,e,249,5,6
+ford,pickup truck: standard,3.5,6,as10,x,275,4,6
+ford,pickup truck: standard,3.5,6,as10,x,281,4,6
+ford,pickup truck: standard,5.0,8,as10,x,300,3,5
+ford,pickup truck: standard,5.0,8,as10,e,298,4,5
+ford,pickup truck: standard,5.0,8,as10,x,302,3,5
+ford,pickup truck: standard,5.0,8,as10,e,289,4,5
+ford,pickup truck: standard,2.7,6,as10,x,274,4,6
+ford,pickup truck: standard,3.3,6,as10,x,277,4,6
+ford,pickup truck: standard,3.3,6,as10,e,256,5,6
+ford,pickup truck: standard,3.5,6,as10,x,284,4,6
+ford,pickup truck: standard,3.5,6,as10,x,304,3,6
+ford,pickup truck: standard,5.0,8,as10,x,304,3,5
+ford,pickup truck: standard,5.0,8,as10,e,301,3,5
+ford,pickup truck: standard,5.0,8,as10,x,308,3,5
+ford,pickup truck: standard,5.0,8,as10,e,295,4,5
+ford,pickup truck: standard,3.5,6,as10,x,344,3,6
+ford,pickup truck: standard,3.5,6,as10,x,357,2,6
+ford,pickup truck: standard,3.5,6,as10,x,359,2,6
+ford,pickup truck: standard,3.5,6,as10,x,370,2,6
+ford,pickup truck: standard,3.5,6,as10,x,310,3,6
+ford,pickup truck: standard,3.5,6,as10,x,313,3,6
+ford,pickup truck: standard,3.5,6,as10,x,228,5,6
+ford,pickup truck: standard,3.5,6,as10,x,238,5,6
+ford,two-seater,3.5,6,am7,z,395,2,3
+ford,pickup truck: small,2.0,4,a8,x,226,5,5
+ford,pickup truck: small,2.5,4,av,x,147,7,6
+ford,subcompact,2.3,4,a10,x,220,5,5
+ford,subcompact,2.3,4,as10,x,231,5,5
+ford,subcompact,2.3,4,as10,x,242,5,5
+ford,subcompact,2.3,4,m6,x,236,5,5
+ford,subcompact,2.3,4,m6,x,246,5,5
+ford,subcompact,5.0,8,as10,x,298,4,3
+ford,subcompact,5.0,8,m6,x,314,3,3
+ford,subcompact,2.3,4,a10,x,237,5,5
+ford,subcompact,2.3,4,as10,x,244,5,5
+ford,subcompact,2.3,4,as10,x,252,5,5
+ford,subcompact,2.3,4,m6,x,244,5,5
+ford,subcompact,2.3,4,m6,x,256,5,5
+ford,subcompact,5.0,8,as10,x,314,3,3
+ford,subcompact,5.0,8,as10,x,302,3,3
+ford,subcompact,5.0,8,m6,x,339,3,3
+ford,pickup truck: standard,2.3,4,as10,x,256,5,6
+ford,pickup truck: standard,2.3,4,as10,x,262,4,6
+ford,pickup truck: standard,2.3,4,as10,x,291,4,3
+ford,subcompact,5.2,8,am7,z,392,2,3
+ford,special purpose vehicle,2.0,4,as8,x,221,5,6
+ford,special purpose vehicle,2.0,4,as8,x,221,5,5
+ford,special purpose vehicle,2.0,4,as8,e,211,5,5
+ford,special purpose vehicle,2.5,4,as6,x,249,5,5
+ford,special purpose vehicle,2.0,4,as8,x,216,5,6
+ford,special purpose vehicle,2.0,4,as8,x,216,5,5
+ford,special purpose vehicle,2.0,4,as8,e,219,5,5
+ford,special purpose vehicle,2.5,4,as6,x,249,5,5
+genesis,compact,3.3,6,as8,z,273,4,3
+genesis,full-size,2.5,4,as8,z,225,5,5
+genesis,full-size,3.5,6,as8,z,298,4,5
+genesis,full-size,5.0,8,as8,z,303,3,5
+genesis,suv: small,2.5,4,as8,z,229,5,5
+genesis,suv: small,3.5,6,as8,z,275,4,5
+genesis,suv: standard,2.5,4,as8,z,248,5,5
+genesis,suv: standard,3.5,6,as8,z,279,4,5
+gmc,suv: standard,2.0,4,a9,x,221,5,7
+gmc,suv: standard,3.6,6,a9,x,252,5,6
+gmc,suv: standard,2.0,4,a9,x,232,5,7
+gmc,suv: standard,3.6,6,a9,x,259,4,6
+gmc,pickup truck: small,2.5,4,a6,x,257,5,6
+gmc,pickup truck: small,2.8,4,a6,d,270,4,3
+gmc,pickup truck: small,3.6,6,a8,x,263,4,6
+gmc,pickup truck: small,2.5,4,a6,x,267,4,6
+gmc,pickup truck: small,2.8,4,a6,d,283,4,3
+gmc,pickup truck: small,3.6,6,a8,x,283,4,6
+gmc,pickup truck: standard,2.7,4,a8,x,274,4,6
+gmc,pickup truck: standard,3.0,6,a10,d,245,5,3
+gmc,pickup truck: standard,5.3,8,a6,x,341,3,3
+gmc,pickup truck: standard,5.3,8,a6,e,321,3,3
+gmc,pickup truck: standard,5.3,8,a8,x,314,3,6
+gmc,pickup truck: standard,5.3,8,a10,x,305,3,6
+gmc,pickup truck: standard,2.7,4,a8,x,306,3,6
+gmc,pickup truck: standard,2.7,4,a8,x,328,3,6
+gmc,pickup truck: standard,3.0,6,a10,d,265,4,3
+gmc,pickup truck: standard,3.0,6,a10,d,298,4,3
+gmc,pickup truck: standard,5.3,8,a6,x,347,3,3
+gmc,pickup truck: standard,5.3,8,a6,e,326,3,3
+gmc,pickup truck: standard,5.3,8,a6,x,380,2,3
+gmc,pickup truck: standard,5.3,8,a6,e,358,2,3
+gmc,pickup truck: standard,5.3,8,a8,x,327,3,6
+gmc,pickup truck: standard,5.3,8,a8,x,359,2,6
+gmc,pickup truck: standard,5.3,8,a10,x,318,3,6
+gmc,pickup truck: standard,5.3,8,a10,x,347,3,6
+gmc,pickup truck: standard,5.3,8,a10,x,329,3,6
+gmc,pickup truck: standard,5.3,8,a10,x,338,3,6
+gmc,pickup truck: standard,5.3,8,a10,x,360,2,6
+gmc,pickup truck: standard,5.3,8,a10,x,381,2,6
+gmc,pickup truck: standard,6.0,8,a10,z,329,3,6
+gmc,pickup truck: standard,6.0,8,a10,z,345,3,6
+gmc,pickup truck: standard,6.0,8,a10,z,352,3,6
+gmc,pickup truck: standard,6.0,8,a10,z,385,2,6
+gmc,suv: small,1.5,4,a9,x,202,6,7
+gmc,suv: small,1.5,4,a9,x,212,5,7
+gmc,suv: standard,3.0,6,a10,d,272,4,3
+gmc,suv: standard,5.3,8,a10,x,327,3,6
+gmc,suv: standard,5.3,8,a10,x,332,3,6
+gmc,suv: standard,3.0,6,a10,d,281,4,3
+gmc,suv: standard,5.3,8,a10,x,354,3,6
+gmc,suv: standard,6.0,8,a10,z,345,3,6
+gmc,suv: standard,6.0,8,a10,z,353,3,6
+gmc,suv: standard,5.3,8,a10,x,336,3,6
+honda,full-size,1.5,4,av,x,168,7,7
+honda,full-size,1.5,4,av7,x,176,7,7
+honda,full-size,2.0,4,as10,x,211,5,7
+honda,full-size,2.0,4,av,x,117,7,7
+honda,full-size,2.0,4,av,x,129,7,7
+honda,full-size,1.5,4,av7,x,166,7,7
+honda,full-size,1.5,4,m6,x,175,7,6
+honda,full-size,2.0,4,av,x,167,7,7
+honda,full-size,2.0,4,m6,x,186,6,6
+honda,mid-size,1.5,4,av7,x,162,7,7
+honda,mid-size,2.0,4,av,x,162,7,7
+honda,mid-size,2.0,4,av7,x,165,7,7
+honda,mid-size,1.5,4,m6,z,180,7,6
+honda,suv: small,1.5,4,av,x,180,7,6
+honda,suv: small,1.5,4,av,x,189,6,6
+honda,station wagon: small,1.8,4,av,x,181,6,5
+honda,station wagon: small,1.8,4,av,x,193,6,5
+honda,station wagon: small,1.8,4,av7,x,200,6,5
+honda,minivan,3.5,6,as10,x,248,5,5
+honda,suv: small,3.5,6,as9,x,265,4,3
+honda,suv: small,3.5,6,as9,x,256,5,3
+honda,suv: small,3.5,6,as9,x,260,4,3
+honda,pickup truck: standard,3.5,6,as9,x,271,4,3
+hyundai,mid-size,1.6,4,am7,x,179,7,5
+hyundai,mid-size,2.0,4,av1,x,158,7,5
+hyundai,mid-size,2.0,4,av1,x,151,7,5
+hyundai,mid-size,2.0,4,m6,x,185,6,5
+hyundai,mid-size,2.0,4,am8,z,241,5,3
+hyundai,mid-size,2.0,4,m6,z,223,5,3
+hyundai,mid-size,1.6,4,am6,x,103,7,7
+hyundai,full-size,1.6,4,am6,x,99,7,7
+hyundai,full-size,1.6,4,am6,x,94,7,7
+hyundai,suv: small,2.0,4,av,x,174,7,7
+hyundai,suv: small,2.0,4,am8,z,246,5,3
+hyundai,suv: small,1.6,4,am7,x,193,6,5
+hyundai,suv: small,2.0,4,av,x,187,6,7
+hyundai,suv: standard,3.8,6,as8,x,265,4,5
+hyundai,pickup truck: small,2.5,4,am8,x,250,5,5
+hyundai,suv: small,2.5,4,am8,x,233,5,5
+hyundai,suv: small,2.5,4,as8,x,235,5,7
+hyundai,suv: small,1.6,4,am6,x,176,7,7
+hyundai,full-size,1.6,4,as8,x,183,6,5
+hyundai,full-size,2.5,4,am8,x,208,6,5
+hyundai,full-size,2.5,4,as8,x,182,6,7
+hyundai,full-size,2.0,4,am6,x,117,7,7
+hyundai,suv: small,2.5,4,as8,x,194,6,5
+hyundai,suv: small,2.5,4,as8,x,214,5,5
+hyundai,suv: small,1.6,4,am6,x,152,7,7
+hyundai,compact,2.0,4,am8,z,248,5,3
+hyundai,compact,2.0,4,m6,z,226,5,3
+hyundai,mid-size,1.6,4,av1,x,176,7,5
+hyundai,mid-size,1.6,4,m6,x,184,6,5
+infiniti,mid-size,3.0,6,as7,z,254,5,3
+infiniti,mid-size,3.0,6,as7,z,261,4,3
+infiniti,subcompact,3.0,6,as7,z,252,5,3
+infiniti,subcompact,3.0,6,as7,z,259,4,3
+infiniti,suv: small,2.0,4,av8,z,228,5,6
+infiniti,suv: small,2.0,4,av8,z,223,5,6
+infiniti,suv: standard,3.5,6,as9,z,253,5,5
+infiniti,suv: standard,5.6,8,as7,z,355,3,3
+jaguar,suv: small,2.0,4,as9,z,247,5,7
+jaguar,suv: small,2.0,4,as9,z,245,5,7
+jaguar,two-seater,5.0,8,as8,z,286,4,3
+jaguar,two-seater,5.0,8,as8,z,299,3,3
+jeep,suv: small,2.0,4,a9,x,214,5,5
+jeep,suv: small,2.4,4,a9,x,219,5,6
+jeep,suv: small,3.2,6,a9,x,240,5,5
+jeep,suv: small,2.0,4,a9,x,229,5,5
+jeep,suv: small,2.4,4,a9,x,230,5,6
+jeep,suv: small,3.2,6,a9,x,249,5,5
+jeep,suv: small,3.2,6,a9,x,268,4,5
+jeep,suv: small,2.4,4,a6,x,218,5,6
+jeep,suv: small,2.4,4,a9,x,222,5,6
+jeep,pickup truck: standard,3.0,6,a8,d,263,4,3
+jeep,pickup truck: standard,3.0,6,a8,d,271,4,3
+jeep,pickup truck: standard,3.6,6,a8,x,290,4,7
+jeep,pickup truck: standard,3.6,6,m6,x,296,4,5
+jeep,suv: standard,3.6,6,a8,x,256,5,7
+jeep,suv: standard,5.7,8,a8,x,331,3,5
+jeep,suv: standard,3.6,6,a8,x,266,4,7
+jeep,suv: standard,3.6,6,a8,x,265,4,7
+jeep,suv: standard,6.0,8,a8,z,374,2,3
+jeep,suv: small,1.3,4,a9,x,204,6,6
+jeep,suv: small,1.3,4,a9,x,222,5,6
+jeep,suv: small,1.3,4,a9,x,231,5,6
+jeep,suv: standard,5.7,8,a8,x,323,3,5
+jeep,suv: small,2.0,4,a8,x,241,5,5
+jeep,suv: small,3.6,6,a8,x,274,4,7
+jeep,suv: small,3.6,6,a8,x,258,4,5
+jeep,suv: small,3.6,6,m6,x,277,4,5
+jeep,suv: small,2.0,4,a8,x,251,5,5
+jeep,suv: small,3.0,6,a8,d,255,5,3
+jeep,suv: small,3.0,6,a8,d,275,4,3
+jeep,suv: small,3.6,6,a8,x,275,4,7
+jeep,suv: small,3.6,6,a8,x,262,4,5
+jeep,suv: small,3.6,6,m6,x,285,4,5
+jeep,suv: small,6.0,8,a8,z,387,2,3
+kia,minivan,3.5,6,as8,x,252,5,5
+kia,mid-size,1.6,4,am7,x,184,6,5
+kia,mid-size,2.0,4,av,x,165,7,5
+kia,mid-size,2.0,4,m6,x,178,7,5
+kia,full-size,1.6,4,am7,x,190,6,5
+kia,full-size,2.0,4,av,x,169,7,5
+kia,full-size,2.5,4,am8,x,207,6,5
+kia,full-size,1.6,4,as8,x,195,6,5
+kia,station wagon: small,1.6,4,am6,x,110,7,7
+kia,station wagon: small,1.6,4,am6,x,124,7,7
+kia,compact,1.6,4,av1,x,159,7,3
+kia,compact,1.6,4,m6,x,166,7,3
+kia,suv: small,2.0,4,av8,x,182,6,5
+kia,suv: small,1.6,4,am7,x,205,6,5
+kia,suv: small,2.0,4,av8,x,195,6,5
+kia,suv: small,2.5,4,am8,x,234,5,5
+kia,suv: small,2.5,4,as8,x,227,5,5
+kia,suv: small,1.6,4,am6,x,157,7,7
+kia,station wagon: small,2.0,4,av,x,187,6,7
+kia,suv: small,2.4,4,as6,x,214,5,5
+kia,suv: small,2.0,4,as6,x,261,4,5
+kia,suv: small,2.4,4,as6,x,238,5,5
+kia,mid-size,3.3,6,as8,z,280,4,3
+kia,suv: small,3.8,6,as8,x,266,4,5
+lamborghini,two-seater,6.0,8,am7,z,358,2,3
+lamborghini,two-seater,6.0,8,am7,z,358,2,3
+lamborghini,two-seater,5.2,8,am7,z,371,2,3
+lamborghini,two-seater,5.2,8,am7,z,370,2,3
+lamborghini,suv: standard,4.0,8,as8,z,384,2,3
+land rover,suv: standard,2.0,4,as8,z,289,4,7
+land rover,suv: standard,3.0,6,as8,z,287,4,7
+land rover,suv: standard,5.0,8,as8,z,339,3,3
+land rover,suv: standard,2.0,4,as8,z,306,3,7
+land rover,suv: standard,5.0,8,as8,z,350,3,3
+land rover,suv: standard,2.0,4,as8,z,271,4,7
+land rover,suv: standard,3.0,6,as8,z,270,4,7
+land rover,suv: standard,3.0,6,as8,z,279,4,7
+land rover,suv: standard,5.0,8,as8,z,305,3,3
+land rover,suv: standard,5.0,8,as8,z,354,3,3
+land rover,suv: standard,5.0,8,as8,z,365,2,3
+land rover,suv: standard,3.0,6,as8,z,269,4,7
+land rover,suv: standard,5.0,8,as8,z,294,4,3
+land rover,suv: standard,5.0,8,as8,z,336,3,3
+lexus,mid-size,2.5,4,as8,x,195,6,6
+lexus,mid-size,2.5,4,av6,x,124,7,7
+lexus,mid-size,3.5,6,as8,x,214,5,5
+lexus,mid-size,3.5,6,as8,x,219,5,5
+lexus,suv: standard,4.6,8,as6,z,337,3,3
+lexus,compact,2.0,4,as6,z,221,5,5
+lexus,compact,3.5,6,as6,z,253,5,5
+lexus,compact,5.0,8,as8,z,280,4,5
+lexus,subcompact,5.0,8,as10,z,294,4,5
+lexus,minicompact,5.0,8,as10,z,304,3,5
+lexus,subcompact,3.5,6,av10,z,189,6,7
+lexus,mid-size,3.4,6,as10,z,270,4,5
+lexus,mid-size,3.5,6,av10,z,216,5,7
+lexus,suv: standard,3.4,6,as10,z,298,4,5
+lexus,suv: small,2.5,4,as8,x,198,6,6
+lexus,suv: small,2.4,4,as8,z,221,5,7
+lexus,suv: small,2.4,4,as8,z,222,5,7
+lexus,suv: small,2.5,4,av6,z,140,7,7
+lexus,subcompact,3.5,6,as6,z,253,5,5
+lexus,subcompact,5.0,8,as8,z,285,4,5
+lexus,suv: small,3.5,6,as8,x,252,5,5
+lexus,suv: small,3.5,6,as8,x,268,4,5
+lexus,suv: standard,3.5,6,av6,z,185,6,7
+lexus,suv: standard,3.5,6,av6,z,190,6,7
+lexus,mid-size,2.0,4,as10,x,168,7,6
+lexus,compact,2.0,4,av6,x,140,7,7
+lincoln,suv: standard,3.0,6,as10,x,280,4,5
+lincoln,suv: small,2.0,4,as8,x,229,5,5
+lincoln,suv: small,2.3,4,as8,x,232,5,5
+lincoln,suv: small,2.0,4,a8,x,252,5,6
+lincoln,suv: small,2.0,4,as8,x,251,5,6
+lincoln,suv: small,2.7,6,as8,x,262,4,5
+lincoln,suv: standard,3.5,6,as10,x,311,3,6
+maserati,mid-size,3.0,6,a8,z,271,4,3
+maserati,mid-size,3.0,6,a8,z,293,4,3
+maserati,mid-size,3.8,8,a8,z,348,3,3
+maserati,suv: standard,3.0,6,a8,z,308,3,3
+maserati,suv: standard,3.8,8,a8,z,349,3,3
+maserati,two-seater,3.0,6,as8,z,295,4,5
+maserati,full-size,3.0,6,a8,z,281,4,3
+maserati,full-size,3.0,6,a8,z,293,4,3
+maserati,full-size,3.8,8,a8,z,348,3,3
+mazda,compact,2.0,4,as6,x,179,7,3
+mazda,compact,2.0,4,m6,x,186,6,3
+mazda,compact,2.0,4,as6,x,189,6,3
+mazda,suv: small,2.0,4,as6,x,202,6,7
+mazda,suv: small,2.5,4,as6,x,208,6,7
+mazda,suv: small,2.5,4,as6,x,220,5,5
+mazda,suv: small,2.5,4,as6,x,216,5,6
+mazda,suv: small,2.5,4,as6,x,209,5,6
+mazda,suv: small,2.5,4,as6,x,230,5,5
+mazda,suv: small,2.5,4,as6,x,243,5,5
+mazda,compact,2.0,4,as6,x,178,7,7
+mazda,compact,2.0,4,m6,x,180,7,7
+mazda,compact,2.5,4,as6,x,183,6,7
+mazda,compact,2.5,4,as6,x,199,6,7
+mazda,compact,2.5,4,as6,x,207,6,5
+mazda,mid-size,2.0,4,as6,x,181,7,7
+mazda,mid-size,2.0,4,m6,x,181,6,7
+mazda,mid-size,2.5,4,as6,x,190,6,7
+mazda,mid-size,2.5,4,m6,x,198,6,7
+mazda,mid-size,2.5,4,as6,x,200,6,7
+mazda,mid-size,2.5,4,as6,x,209,5,5
+mazda,two-seater,2.0,4,as6,z,186,6,3
+mazda,two-seater,2.0,4,m6,z,189,6,3
+mercedes-benz,subcompact,2.0,4,am7,z,194,6,5
+mercedes-benz,station wagon: small,2.0,4,am7,z,202,6,5
+mercedes-benz,subcompact,2.0,4,am7,z,221,5,5
+mercedes-benz,station wagon: small,2.0,4,am7,z,221,5,5
+mercedes-benz,subcompact,3.0,6,a9,z,256,5,5
+mercedes-benz,subcompact,3.0,6,a9,z,252,5,5
+mercedes-benz,compact,2.0,4,am7,z,227,5,5
+mercedes-benz,compact,2.0,4,am8,z,243,5,3
+mercedes-benz,compact,3.0,6,a9,z,241,5,6
+mercedes-benz,mid-size,3.0,6,a9,z,232,5,6
+mercedes-benz,subcompact,3.0,6,a9,z,247,5,6
+mercedes-benz,subcompact,3.0,6,a9,z,239,5,6
+mercedes-benz,station wagon: small,2.0,4,am8,z,230,5,5
+mercedes-benz,station wagon: small,2.0,4,am8,z,260,4,3
+mercedes-benz,station wagon: mid-size,2.0,4,am8,z,262,4,5
+mercedes-benz,suv: small,3.0,6,a9,z,264,4,5
+mercedes-benz,suv: small,3.0,6,a9,z,287,4,5
+mercedes-benz,suv: standard,3.0,6,a9,z,283,4,6
+mercedes-benz,suv: standard,3.0,6,a9,z,292,4,6
+mercedes-benz,compact,3.0,6,a9,z,258,4,6
+mercedes-benz,subcompact,2.0,4,a9,z,224,5,6
+mercedes-benz,subcompact,2.0,4,a9,z,217,5,6
+mercedes-benz,compact,2.0,4,am7,z,200,6,5
+mercedes-benz,compact,3.0,6,a9,z,229,5,6
+mercedes-benz,mid-size,2.0,4,a9,z,229,5,6
+mercedes-benz,mid-size,3.0,6,a9,z,218,5,6
+mercedes-benz,subcompact,3.0,6,a9,z,233,5,6
+mercedes-benz,subcompact,3.0,6,a9,z,225,5,6
+mercedes-benz,station wagon: mid-size,3.0,6,a9,z,229,5,6
+mercedes-benz,suv: small,2.0,4,am8,z,210,5,5
+mercedes-benz,suv: small,2.0,4,am8,z,224,5,5
+mercedes-benz,suv: small,2.0,4,a9,z,242,5,6
+mercedes-benz,suv: small,2.0,4,a9,z,237,5,6
+mercedes-benz,suv: standard,2.0,4,a9,z,250,5,5
+mercedes-benz,suv: standard,3.0,6,a9,z,244,5,6
+mercedes-benz,suv: standard,3.0,6,a9,z,247,5,6
+mercedes-benz,suv: standard,3.0,6,a9,z,269,4,6
+mercedes-benz,full-size,4.0,8,a9,z,301,3,5
+mercedes-benz,special purpose vehicle,2.0,4,a9,z,267,4,6
+mercedes-benz,special purpose vehicle,2.0,4,a9,z,282,4,6
+mercedes-benz,full-size,3.0,6,a9,z,231,5,6
+mercedes-benz,full-size,4.0,8,a9,z,285,4,5
+mini,subcompact,1.5,3,am7,z,170,7,7
+mini,subcompact,1.5,3,m6,z,177,7,7
+mini,minicompact,1.5,3,am7,z,170,7,7
+mini,minicompact,1.5,3,m6,z,177,7,7
+mini,mid-size,1.5,3,as8,z,211,5,7
+mini,subcompact,2.0,4,am7,z,174,7,7
+mini,subcompact,2.0,4,m6,z,211,5,7
+mini,mid-size,2.0,4,as8,z,207,6,7
+mini,minicompact,2.0,4,am7,z,182,6,7
+mini,minicompact,2.0,4,m6,z,205,6,7
+mini,mid-size,2.0,4,as8,z,212,5,7
+mini,subcompact,2.0,4,as8,z,191,6,7
+mini,mid-size,2.0,4,as8,z,210,5,3
+mini,minicompact,2.0,4,as8,z,198,6,7
+mini,mid-size,2.0,4,as8,z,210,5,3
+mitsubishi,suv: small,1.5,4,av8,x,216,5,5
+mitsubishi,compact,1.2,3,av,x,143,7,5
+mitsubishi,compact,1.2,3,m5,x,151,7,5
+mitsubishi,suv: small,2.5,4,av8,x,208,6,6
+mitsubishi,suv: small,2.0,4,av6,x,206,6,5
+mitsubishi,suv: small,2.0,4,av6,x,213,5,5
+mitsubishi,suv: small,2.4,4,av6,x,218,5,5
+nissan,mid-size,2.5,4,av,x,186,6,7
+nissan,mid-size,2.5,4,av,x,190,6,7
+nissan,suv: standard,5.6,8,as7,z,362,2,3
+nissan,pickup truck: standard,3.8,6,as9,x,266,4,5
+nissan,pickup truck: standard,3.8,6,as9,x,288,4,5
+nissan,mid-size,1.6,4,av,x,169,7,7
+nissan,mid-size,3.5,6,av7,z,233,5,3
+nissan,station wagon: mid-size,3.5,6,av7,x,245,5,5
+nissan,suv: small,3.5,6,as9,x,246,5,5
+nissan,station wagon: small,2.0,4,av8,x,188,6,6
+nissan,station wagon: small,2.0,4,m6,x,213,5,6
+nissan,station wagon: small,2.0,4,av8,x,196,6,6
+nissan,suv: small,1.5,3,av8,x,169,7,6
+nissan,suv: small,2.5,4,av8,x,190,6,7
+nissan,suv: small,1.5,3,av8,x,179,7,6
+nissan,suv: small,1.5,3,av8,x,181,6,6
+nissan,suv: small,2.5,4,av8,x,195,6,7
+nissan,mid-size,2.0,4,av,x,167,7,7
+nissan,mid-size,2.0,4,av,x,171,7,7
+nissan,mid-size,2.0,4,m6,x,185,6,7
+nissan,mid-size,2.0,4,m6,x,189,6,7
+nissan,compact,1.6,4,av,x,158,7,7
+nissan,compact,1.6,4,m5,x,181,7,7
+porsche,two-seater,2.0,4,am7,z,233,5,3
+porsche,two-seater,2.0,4,m6,z,245,5,3
+porsche,two-seater,2.0,4,am7,z,236,5,3
+porsche,two-seater,2.5,4,am7,z,255,5,3
+porsche,two-seater,2.5,4,m6,z,263,4,3
+porsche,two-seater,4.0,6,am7,z,260,4,5
+porsche,two-seater,4.0,6,m6,z,284,4,5
+porsche,two-seater,4.0,6,am7,z,271,4,5
+porsche,two-seater,4.0,6,m6,z,286,4,5
+porsche,minicompact,3.0,6,am8,z,275,4,5
+porsche,minicompact,3.0,6,am8,z,275,4,5
+porsche,minicompact,3.0,6,am8,z,274,4,5
+porsche,minicompact,3.0,6,m7,z,264,4,5
+porsche,minicompact,3.0,6,am8,z,273,4,5
+porsche,minicompact,3.0,6,m7,z,275,4,5
+porsche,minicompact,3.0,6,am8,z,275,4,5
+porsche,minicompact,3.0,6,m7,z,275,4,5
+porsche,minicompact,3.0,6,am8,z,273,4,5
+porsche,minicompact,3.0,6,m7,z,281,4,5
+porsche,minicompact,3.0,6,am8,z,289,4,5
+porsche,minicompact,3.0,6,m7,z,276,4,5
+porsche,minicompact,3.0,6,am8,z,289,4,5
+porsche,minicompact,3.0,6,m7,z,278,4,5
+porsche,minicompact,3.0,6,am8,z,288,4,5
+porsche,minicompact,3.0,6,m7,z,289,4,5
+porsche,minicompact,3.0,6,am8,z,288,4,5
+porsche,minicompact,3.0,6,m7,z,296,4,5
+porsche,minicompact,4.0,6,am7,z,334,3,3
+porsche,minicompact,4.0,6,m6,z,355,3,3
+porsche,minicompact,4.0,6,am7,z,335,3,3
+porsche,minicompact,4.0,6,m6,z,354,3,3
+porsche,minicompact,3.0,6,am8,z,274,4,5
+porsche,minicompact,3.0,6,m7,z,278,4,5
+porsche,minicompact,3.0,6,am8,z,287,4,5
+porsche,minicompact,3.7,6,am8,z,321,3,5
+porsche,minicompact,3.7,6,am8,z,324,3,5
+porsche,minicompact,3.7,6,am8,z,321,3,5
+porsche,minicompact,3.7,6,am8,z,328,3,5
+porsche,suv: standard,3.0,6,as8,z,289,4,5
+porsche,suv: standard,2.9,6,as8,z,307,3,5
+porsche,suv: standard,2.9,6,as8,z,305,3,5
+porsche,suv: standard,4.0,8,as8,z,331,3,3
+porsche,suv: standard,4.0,8,as8,z,326,3,3
+porsche,suv: standard,4.0,8,as8,z,343,3,3
+porsche,suv: standard,4.0,8,as8,z,330,3,3
+porsche,suv: standard,4.0,8,as8,z,345,3,3
+porsche,suv: small,2.0,4,am7,z,263,4,5
+porsche,suv: small,2.9,6,am7,z,289,4,5
+porsche,suv: small,2.9,6,am7,z,290,4,5
+porsche,full-size,2.9,6,am8,z,274,4,5
+porsche,full-size,2.9,6,am8,z,274,4,5
+porsche,full-size,2.9,6,am8,z,289,4,5
+porsche,full-size,2.9,6,am8,z,274,4,5
+porsche,full-size,2.9,6,am8,z,276,4,5
+porsche,full-size,2.9,6,am8,z,292,4,5
+porsche,full-size,4.0,8,am8,z,323,3,3
+porsche,full-size,4.0,8,am8,z,323,3,3
+porsche,full-size,4.0,8,am8,z,326,3,3
+ram,pickup truck: standard,3.0,6,a8,d,243,5,3
+ram,pickup truck: standard,3.0,6,a8,d,238,5,3
+ram,pickup truck: standard,3.6,6,a8,x,253,5,5
+ram,pickup truck: standard,3.6,6,a8,x,245,5,5
+ram,pickup truck: standard,5.7,8,a8,x,320,3,5
+ram,pickup truck: standard,5.7,8,a8,x,275,4,5
+ram,pickup truck: standard,3.0,6,a8,d,260,4,3
+ram,pickup truck: standard,3.6,6,a8,x,260,4,5
+ram,pickup truck: standard,5.7,8,a8,x,325,3,5
+ram,pickup truck: standard,5.7,8,a8,x,284,4,5
+ram,pickup truck: standard,6.0,8,a8,z,358,2,3
+ram,pickup truck: standard,3.6,6,a8,x,280,4,3
+ram,pickup truck: standard,5.7,8,a8,x,323,3,3
+ram,pickup truck: standard,3.6,6,a8,x,295,4,3
+ram,pickup truck: standard,5.7,8,a8,x,330,3,3
+ram,special purpose vehicle,2.4,4,a9,x,232,5,6
+rolls-royce,station wagon: mid-size,6.0,8,as8,z,386,2,3
+rolls-royce,full-size,6.0,8,as8,z,387,2,3
+rolls-royce,full-size,6.0,8,as8,z,382,2,3
+subaru,suv: standard,2.4,4,av8,x,245,5,3
+subaru,minicompact,2.4,4,as6,z,224,5,3
+subaru,minicompact,2.4,4,m6,z,247,5,3
+subaru,suv: small,2.0,4,av8,x,184,6,7
+subaru,suv: small,2.0,4,m6,x,220,5,7
+subaru,suv: small,2.5,4,av8,x,188,6,7
+subaru,suv: small,2.5,4,av7,x,192,6,7
+subaru,suv: small,2.5,4,av8,x,210,5,7
+subaru,mid-size,2.0,4,av7,x,174,7,7
+subaru,mid-size,2.0,4,m5,x,209,5,7
+subaru,station wagon: small,2.0,4,av7,x,178,7,7
+subaru,station wagon: small,2.0,4,m5,x,211,5,7
+subaru,full-size,2.4,4,av8,x,205,6,3
+subaru,full-size,2.5,4,av8,x,184,6,7
+subaru,suv: small,2.4,4,av8,x,213,5,3
+subaru,suv: small,2.5,4,av8,x,192,6,7
+subaru,suv: small,2.4,4,av8,x,235,5,3
+subaru,mid-size,2.4,4,av8,z,262,4,3
+subaru,mid-size,2.4,4,m6,z,254,5,3
+toyota,suv: standard,4.0,6,as5,x,323,3,5
+toyota,suv: standard,4.0,6,as5,x,321,3,5
+toyota,compact,2.0,4,as7,x,189,6,3
+toyota,mid-size,2.5,4,as8,x,174,7,7
+toyota,mid-size,2.5,4,as8,x,178,7,7
+toyota,mid-size,3.5,6,as8,x,215,5,5
+toyota,mid-size,3.5,6,as8,x,220,5,5
+toyota,mid-size,2.5,4,as8,x,192,6,6
+toyota,mid-size,2.5,4,as8,x,195,6,6
+toyota,mid-size,2.5,4,av,x,113,7,7
+toyota,mid-size,2.5,4,av,x,121,7,7
+toyota,compact,1.8,4,av,x,166,7,5
+toyota,compact,1.8,4,av,x,170,7,5
+toyota,compact,1.8,4,m6,x,165,7,5
+toyota,compact,2.0,4,av10,x,159,7,7
+toyota,compact,2.0,4,av10,x,164,7,7
+toyota,compact,2.0,4,m6,x,172,7,7
+toyota,compact,2.0,4,av10,x,164,7,7
+toyota,compact,2.0,4,av10,x,159,7,7
+toyota,compact,2.0,4,m6,x,179,7,7
+toyota,compact,1.8,4,av,x,106,7,7
+toyota,suv: small,2.0,4,av10,x,171,7,7
+toyota,suv: small,2.0,4,av10,x,182,6,7
+toyota,minicompact,2.4,4,as6,z,224,5,3
+toyota,minicompact,2.4,4,m6,z,246,5,3
+toyota,two-seater,2.0,4,as8,z,195,6,7
+toyota,two-seater,3.0,6,as8,z,218,5,5
+toyota,suv: small,3.5,6,as8,x,241,5,5
+toyota,suv: standard,2.5,4,av,x,158,7,7
+toyota,suv: standard,2.5,4,av,x,156,7,7
+toyota,mid-size,1.8,4,av,x,106,7,7
+toyota,mid-size,1.8,4,av,x,111,7,7
+toyota,suv: small,2.5,4,as8,x,184,6,7
+toyota,suv: small,2.5,4,as8,x,180,7,7
+toyota,suv: small,2.5,4,as8,x,198,6,6
+toyota,suv: small,2.5,4,as8,x,187,6,6
+toyota,suv: small,2.5,4,as8,x,184,6,6
+toyota,suv: small,2.5,4,as8,x,200,6,6
+toyota,suv: small,2.5,4,av,x,140,7,7
+toyota,suv: standard,5.7,8,as6,x,385,2,5
+toyota,minivan,2.5,4,av,x,154,7,7
+toyota,minivan,2.5,4,av,x,158,7,7
+toyota,pickup truck: small,3.5,6,as6,x,278,4,5
+toyota,pickup truck: small,3.5,6,m6,x,299,3,5
+toyota,pickup truck: small,3.5,6,m6,x,300,3,5
+toyota,pickup truck: standard,3.4,6,as10,x,277,4,5
+toyota,pickup truck: standard,3.4,6,as10,x,285,4,5
+toyota,pickup truck: standard,3.4,6,as10,x,286,4,5
+toyota,pickup truck: standard,3.4,6,as10,x,274,4,5
+toyota,pickup truck: standard,3.4,6,as10,x,277,4,5
+toyota,suv: small,2.5,4,av,x,142,7,7
+volkswagen,suv: small,2.0,4,as8,x,249,5,3
+volkswagen,suv: small,3.6,6,as8,x,286,4,5
+volkswagen,suv: small,2.0,4,as8,x,252,5,3
+volkswagen,suv: small,3.6,6,as8,x,275,4,5
+volkswagen,mid-size,2.0,4,am7,x,194,6,5
+volkswagen,mid-size,2.0,4,m6,x,198,6,5
+volkswagen,mid-size,2.0,4,am7,z,213,5,5
+volkswagen,mid-size,2.0,4,m6,z,237,5,5
+volkswagen,compact,1.5,4,as8,x,159,7,7
+volkswagen,compact,1.5,4,as8,x,167,7,7
+volkswagen,compact,1.5,4,m6,x,161,7,7
+volkswagen,compact,2.0,4,am7,x,185,6,7
+volkswagen,compact,2.0,4,m6,x,186,6,7
+volkswagen,mid-size,2.0,4,as6,x,196,6,7
+volkswagen,suv: small,1.5,4,a8,x,178,7,7
+volkswagen,suv: small,1.5,4,a7,x,200,6,7
+volkswagen,suv: small,2.0,4,as8,x,222,5,7
+volkswagen,suv: small,2.0,4,as8,x,229,5,7
+volvo,compact,2.0,4,as8,z,186,6,5
+volvo,compact,2.0,4,as8,z,193,6,5
+volvo,mid-size,2.0,4,as8,z,212,5,7
+volvo,station wagon: small,2.0,4,as8,z,224,5,7
+volvo,station wagon: small,2.0,4,as8,z,221,5,5
+volvo,station wagon: mid-size,2.0,4,as8,z,222,5,7
+volvo,suv: small,2.0,4,as8,x,217,5,5
+volvo,suv: small,2.0,4,as8,z,219,5,5
+volvo,suv: small,2.0,4,as8,z,219,5,5
+volvo,suv: small,2.0,4,as8,z,232,5,7
+volvo,suv: standard,2.0,4,as8,z,236,5,5
+volvo,suv: standard,2.0,4,as8,z,252,5,7
